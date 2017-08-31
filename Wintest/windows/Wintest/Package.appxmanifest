@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="cfe2c938-d0b6-4247-bab0-a79f0d54e549"
+    Name="780df12f-6d8a-483e-b5c3-c5d8363a7a2b"
     Publisher="CN=bigme"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="cfe2c938-d0b6-4247-bab0-a79f0d54e549" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="780df12f-6d8a-483e-b5c3-c5d8363a7a2b" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Wintest</DisplayName>

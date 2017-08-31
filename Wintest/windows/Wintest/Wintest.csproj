@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{8097330a-2c52-4518-b565-47df08b01aa9}</ProjectGuid>
+    <ProjectGuid>{a529558d-5723-4a01-a481-c621481a3825}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Wintest</RootNamespace>
@@ -17,7 +17,7 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PackageCertificateKeyFile>Wintest_TemporaryKey.pfx</PackageCertificateKeyFile>
-    <PackageCertificateThumbprint>4A5DEC531848311DF696BED5D795742C84C8CEE6</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>21804BC293395243BE60BDD54B1101F20CBDA0FB</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <DebugSymbols>true</DebugSymbols>

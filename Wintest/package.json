@@ -16,7 +16,7 @@
 		"babel-preset-react-native": "3.0.2",
 		"jest": "20.0.4",
 		"react-test-renderer": "16.0.0-alpha.12",
-		"rnpm-plugin-windows": "^0.2.7"
+		"rnpm-plugin-windows": "^0.1.1"
 	},
 	"jest": {
 		"preset": "react-native"
